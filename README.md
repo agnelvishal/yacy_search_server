@@ -1,4 +1,4 @@
-# YaCy
+# Sarchy (Fork of YaCy)
 [![Gitter](https://badges.gitter.im/yacy/yacy_search_server.svg)](https://gitter.im/yacy/yacy_search_server?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/yacy/yacy_search_server.svg?branch=master)](https://travis-ci.org/yacy/yacy_search_server)
 
@@ -50,8 +50,8 @@ The source code is inside the release package (see /source and /htroot).
 ## Where is the documentation?
 
 Documentation can be found at:
-- (Home Page)        https://yacy.net/
-- (German Forum)     http://forum.yacy.de/
+- (Home Page)        http://sarchy.condense.press/
+- (Parent Home Page) https://yacy.net/
 - (Wiki:de)          http://www.yacy-websuche.de/wiki/index.php/De:Start
 - (Wiki:en)          http://www.yacy-websearch.net/wiki/index.php/En:Start
 - (Tutorial Videos)  https://yacy.net/en/Tutorials.html and https://yacy.net/de/Lehrfilme.html
